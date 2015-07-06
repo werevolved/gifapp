@@ -5,3 +5,16 @@ body{
 	background-image: url('http://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif');
 	background-attachment: fixed;
 }
+
+.headline {
+
+	color: green;
+	font-size: 50px;
+
+}
+
+.searchbtn {
+
+	background-color: red;
+	
+}
